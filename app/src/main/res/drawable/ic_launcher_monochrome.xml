@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Qalc themed (monochrome) icon: calculator keys (+, −, graph wave, =). 108dp adaptive-icon canvas. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:pathData="M37.5,32 H45.5 A5.5,5.5 0 0 1 51,37.5 V45.5 A5.5,5.5 0 0 1 45.5,51 H37.5 A5.5,5.5 0 0 1 32,45.5 V37.5 A5.5,5.5 0 0 1 37.5,32 Z" android:strokeColor="#FF000000" android:strokeWidth="2" android:fillColor="#00000000" />
+    <path android:pathData="M62.5,32 H70.5 A5.5,5.5 0 0 1 76,37.5 V45.5 A5.5,5.5 0 0 1 70.5,51 H62.5 A5.5,5.5 0 0 1 57,45.5 V37.5 A5.5,5.5 0 0 1 62.5,32 Z" android:strokeColor="#FF000000" android:strokeWidth="2" android:fillColor="#00000000" />
+    <path android:pathData="M37.5,57 H45.5 A5.5,5.5 0 0 1 51,62.5 V70.5 A5.5,5.5 0 0 1 45.5,76 H37.5 A5.5,5.5 0 0 1 32,70.5 V62.5 A5.5,5.5 0 0 1 37.5,57 Z" android:strokeColor="#FF000000" android:strokeWidth="2" android:fillColor="#00000000" />
+    <path android:pathData="M62.5,57 H70.5 A5.5,5.5 0 0 1 76,62.5 V70.5 A5.5,5.5 0 0 1 70.5,76 H62.5 A5.5,5.5 0 0 1 57,70.5 V62.5 A5.5,5.5 0 0 1 62.5,57 Z" android:strokeColor="#FF000000" android:strokeWidth="2" android:fillColor="#00000000" />
+    <path android:pathData="M41.5,35.5 L41.5,47.5 M35.5,41.5 L47.5,41.5" android:strokeColor="#FF000000" android:strokeWidth="3" android:strokeLineCap="round" android:fillColor="#00000000" />
+    <path android:pathData="M60.5,41.5 L72.5,41.5" android:strokeColor="#FF000000" android:strokeWidth="3" android:strokeLineCap="round" android:fillColor="#00000000" />
+    <path android:pathData="M35,66.5 C37.5,57.5 39.5,57.5 41.5,66.5 S45.5,75.5 48,66.5" android:strokeColor="#FF000000" android:strokeWidth="2.6" android:strokeLineCap="round" android:fillColor="#00000000" />
+    <path android:pathData="M61,63 L72,63 M61,70 L72,70" android:strokeColor="#FF000000" android:strokeWidth="3" android:strokeLineCap="round" android:fillColor="#00000000" />
+</vector>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Qalc</string>
+    <string name="formulas">Formulas</string>
+    <string name="open_formulas">ƒ  Formulas</string>
+    <string name="add_formula">New formula</string>
+    <string name="edit_formula">Edit formula</string>
+    <string name="formula_hint">area(w, h) = w × h</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="formulas_help">Tap a formula to insert it into the calculator.\nWrite them like  area(w, h) = w × h  or  rate = 1.95.\nFormulas can call built-ins, ans and each other.</string>
+    <string name="no_formulas">No formulas yet — tap + to add one.</string>
+    <string name="builtins_title">Built-in</string>
+    <string name="graph">Graph</string>
+    <string name="open_graph">y=f(x)</string>
+    <string name="add_function">＋  Add function</string>
+    <string name="reset_view">Reset</string>
+    <string name="graph_hint">sin(x) or x^2 − 1</string>
+    <string name="history">History</string>
+    <string name="history_empty">No calculations yet.
+Results appear here after you press =.</string>
+    <string name="history_help">Tap to insert result · long-press to restore expression</string>
+    <string name="clear">Clear</string>
+    <string name="plot">Plot</string>
+</resources>

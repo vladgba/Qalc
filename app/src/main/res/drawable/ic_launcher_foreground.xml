@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Qalc launcher icon: calculator keys (+, −, graph wave, =). 108dp adaptive-icon canvas. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:pathData="M37,31 H46 A6,6 0 0 1 52,37 V46 A6,6 0 0 1 46,52 H37 A6,6 0 0 1 31,46 V37 A6,6 0 0 1 37,31 Z" android:fillColor="#FFFFFFFF" />
+    <path android:pathData="M62,31 H71 A6,6 0 0 1 77,37 V46 A6,6 0 0 1 71,52 H62 A6,6 0 0 1 56,46 V37 A6,6 0 0 1 62,31 Z" android:fillColor="#E6FFFFFF" />
+    <path android:pathData="M37,56 H46 A6,6 0 0 1 52,62 V71 A6,6 0 0 1 46,77 H37 A6,6 0 0 1 31,71 V62 A6,6 0 0 1 37,56 Z" android:fillColor="#E6FFFFFF" />
+    <path android:pathData="M62,56 H71 A6,6 0 0 1 77,62 V71 A6,6 0 0 1 71,77 H62 A6,6 0 0 1 56,71 V62 A6,6 0 0 1 62,56 Z" android:fillColor="#FFFF9F1C" />
+    <path android:pathData="M41.5,35.5 L41.5,47.5 M35.5,41.5 L47.5,41.5" android:strokeColor="#FF3242C4" android:strokeWidth="3" android:strokeLineCap="round" android:fillColor="#00000000" />
+    <path android:pathData="M60.5,41.5 L72.5,41.5" android:strokeColor="#FF3242C4" android:strokeWidth="3" android:strokeLineCap="round" android:fillColor="#00000000" />
+    <path android:pathData="M35,66.5 C37.5,57.5 39.5,57.5 41.5,66.5 S45.5,75.5 48,66.5" android:strokeColor="#FF3242C4" android:strokeWidth="2.6" android:strokeLineCap="round" android:fillColor="#00000000" />
+    <path android:pathData="M61,63 L72,63 M61,70 L72,70" android:strokeColor="#FFFFFFFF" android:strokeWidth="3" android:strokeLineCap="round" android:fillColor="#00000000" />
+</vector>
