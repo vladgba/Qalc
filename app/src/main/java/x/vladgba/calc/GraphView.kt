@@ -1,4 +1,4 @@
-package dev.qalc
+package x.vladgba.calc
 
 import android.content.Context
 import android.graphics.Canvas
@@ -9,8 +9,8 @@ import android.view.GestureDetector
 import android.view.MotionEvent
 import android.view.ScaleGestureDetector
 import android.view.View
-import dev.qalc.engine.Calculator
-import dev.qalc.engine.Node
+import x.vladgba.calc.engine.Calculator
+import x.vladgba.calc.engine.Node
 import kotlin.math.abs
 import kotlin.math.ceil
 import kotlin.math.floor

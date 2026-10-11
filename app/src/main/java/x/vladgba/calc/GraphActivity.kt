@@ -1,4 +1,4 @@
-package dev.qalc
+package x.vladgba.calc
 
 import android.app.Activity
 import android.graphics.drawable.GradientDrawable
@@ -14,9 +14,9 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.LinearLayout
 import android.widget.TextView
-import dev.qalc.engine.CalcException
-import dev.qalc.engine.Calculator
-import dev.qalc.engine.Node
+import x.vladgba.calc.engine.CalcException
+import x.vladgba.calc.engine.Calculator
+import x.vladgba.calc.engine.Node
 import org.json.JSONArray
 
 /**

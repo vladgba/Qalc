@@ -51,7 +51,7 @@ Results are shown with up to 12 significant digits; very large/small values use 
 ## Project structure
 
 ```
-app/src/main/java/dev/qalc/
+app/src/main/java/x/vladgba/calc/
 ├── engine/               Pure Kotlin, no Android imports
 │   ├── Lexer.kt          tokens (accepts both ASCII and × ÷ − √ π)
 │   ├── Parser.kt         recursive-descent parser → AST

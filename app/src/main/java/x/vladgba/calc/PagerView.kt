@@ -1,4 +1,4 @@
-package dev.qalc
+package x.vladgba.calc
 
 import android.content.Context
 import android.util.AttributeSet

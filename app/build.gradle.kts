@@ -7,11 +7,11 @@ plugins {
 apply(from = rootProject.file("gradle/android-common.gradle"))
 
 android {
-    namespace = "dev.qalc"
+    namespace = "x.vladgba.calc"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "dev.qalc"
+        applicationId = "x.vladgba.calc"
         minSdk = 26
         targetSdk = 35
     }

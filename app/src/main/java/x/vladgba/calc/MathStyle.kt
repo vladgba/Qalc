@@ -1,4 +1,4 @@
-package dev.qalc
+package x.vladgba.calc
 
 import android.graphics.Canvas
 import android.graphics.Paint

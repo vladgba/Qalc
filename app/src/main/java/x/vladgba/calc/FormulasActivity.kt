@@ -1,4 +1,4 @@
-package dev.qalc
+package x.vladgba.calc
 
 import android.app.Activity
 import android.app.AlertDialog
@@ -16,8 +16,8 @@ import android.widget.EditText
 import android.widget.ImageButton
 import android.widget.LinearLayout
 import android.widget.TextView
-import dev.qalc.engine.Calculator
-import dev.qalc.engine.Formula
+import x.vladgba.calc.engine.Calculator
+import x.vladgba.calc.engine.Formula
 
 class FormulasActivity : Activity() {
     private var formulas: List<Formula> = emptyList()

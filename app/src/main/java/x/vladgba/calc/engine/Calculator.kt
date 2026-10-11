@@ -1,4 +1,4 @@
-package dev.qalc.engine
+package x.vladgba.calc.engine
 
 import java.math.BigDecimal
 import java.math.MathContext

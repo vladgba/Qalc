@@ -1,9 +1,9 @@
-package dev.qalc
+package x.vladgba.calc
 
 import android.content.Context
-import dev.qalc.engine.CalcException
-import dev.qalc.engine.Calculator
-import dev.qalc.engine.Formula
+import x.vladgba.calc.engine.CalcException
+import x.vladgba.calc.engine.Calculator
+import x.vladgba.calc.engine.Formula
 
 /**
  * Keypad input logic and calculator state, cursor-aware: keys insert at the cursor / replace the selection.

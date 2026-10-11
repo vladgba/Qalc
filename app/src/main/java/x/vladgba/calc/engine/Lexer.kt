@@ -1,4 +1,4 @@
-package dev.qalc.engine
+package x.vladgba.calc.engine
 
 class CalcException(message: String) : Exception(message)
 

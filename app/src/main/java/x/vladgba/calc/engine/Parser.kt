@@ -1,4 +1,4 @@
-package dev.qalc.engine
+package x.vladgba.calc.engine
 
 sealed interface Node {
     data class Num(val value: Double) : Node

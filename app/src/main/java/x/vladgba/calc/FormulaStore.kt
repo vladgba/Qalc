@@ -1,8 +1,8 @@
-package dev.qalc
+package x.vladgba.calc
 
 import android.content.Context
-import dev.qalc.engine.CalcException
-import dev.qalc.engine.Formula
+import x.vladgba.calc.engine.CalcException
+import x.vladgba.calc.engine.Formula
 import org.json.JSONArray
 
 /** Persists user formulas as a JSON array of their source lines, e.g. ["hyp(a, b) = √(a^2 + b^2)"]. */
