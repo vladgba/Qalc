@@ -3,6 +3,9 @@ plugins {
     id("org.jetbrains.kotlin.android")
 }
 
+// Shared versioning (version.properties) + release signing, see gradle/android-common.gradle
+apply(from = rootProject.file("gradle/android-common.gradle"))
+
 android {
     namespace = "dev.qalc"
     compileSdk = 35
@@ -11,8 +14,6 @@ android {
         applicationId = "dev.qalc"
         minSdk = 26
         targetSdk = 35
-        versionCode = 1
-        versionName = "1.0"
     }
 
     buildTypes {
@@ -21,8 +22,6 @@ android {
 
             isShrinkResources = true
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"))
-            // Signed with the debug key so the release APK installs directly; swap for your own key.
-            signingConfig = signingConfigs.getByName("debug")
         }
     }
     compileOptions {
